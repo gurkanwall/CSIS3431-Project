@@ -1,2 +1,2 @@
 # CSIS3431-Project
-Took life expectancy dataset, ran tests like Multiple regression, Single Factor ANOVA, Time Series, Chi Sq analysis and summarized the results by rejected or not rejecting Null Hypothesis in MS Excel.
+Took a life expectancy dataset and performed data cleaning and preprocessing. Conducted statistical tests such as Multiple Regression, Single Factor ANOVA, Time Series Analysis, and Chi-Square tests in MS Excel. Summarized results by interpreting and validating outcomes through hypothesis testing (rejecting or failing to reject the Null Hypothesis).
